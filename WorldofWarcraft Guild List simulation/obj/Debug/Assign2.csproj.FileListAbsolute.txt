@@ -1,0 +1,10 @@
+D:\github\IT_Assigns\Assign2\bin\Debug\Assign2.exe.config
+D:\github\IT_Assigns\Assign2\bin\Debug\Assign2.exe
+D:\github\IT_Assigns\Assign2\bin\Debug\Assign2.pdb
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.Form1.resources
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.Properties.Resources.resources
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.csproj.GenerateResource.cache
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.csproj.CoreCompileInputs.cache
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.exe
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.pdb
+D:\github\IT_Assigns\Assign2\obj\Debug\Assign2.csproj.AssemblyReference.cache
