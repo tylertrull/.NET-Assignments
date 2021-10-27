@@ -1,0 +1,14 @@
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\bin\Debug\Assign6.exe.config
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\bin\Debug\Assign6.exe
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\bin\Debug\Assign6.pdb
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.BarForm.resources
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.PortalForm.resources
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.Properties.Resources.resources
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.csproj.GenerateResource.cache
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.csproj.CoreCompileInputs.cache
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.exe
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.pdb
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.LineForm.resources
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.PieForm.resources
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.BubbleForm.resources
+D:\github\IT_Assigns\Assign6\Assign6\Assign6\obj\Debug\Assign6.csproj.AssemblyReference.cache
